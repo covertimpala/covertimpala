@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @covertimpala
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning how to use API
 - 💞️ I’m looking to collaborate on idk Github?
 - 📫 How to reach me covertimpala600@gmail.com
 
